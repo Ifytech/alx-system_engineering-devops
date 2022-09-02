@@ -1,1 +1,1 @@
-a magic file
+school
