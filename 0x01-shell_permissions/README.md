@@ -1,1 +1,1 @@
-a script that sets the permission to the file hello as follow
+a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
