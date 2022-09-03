@@ -1,1 +1,1 @@
-a script that will play the StarWars IV episode in the terminal
+a script that sets the permission to the file hello as follow
