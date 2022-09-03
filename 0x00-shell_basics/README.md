@@ -1,1 +1,1 @@
-Create a symbolic link
+Display current directory contents in a long format
